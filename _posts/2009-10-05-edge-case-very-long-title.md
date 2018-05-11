@@ -2,7 +2,7 @@
 layout: post
 title: "테스트 post"
 categories:
-  - 탐구 대상
+  - study
 tags:
   - content
   - css
