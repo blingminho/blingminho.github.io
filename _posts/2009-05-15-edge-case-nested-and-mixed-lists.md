@@ -2,7 +2,7 @@
 layout: post
 title: "Edge Case: Nested and Mixed Lists"
 categories:
-  - Edge Case
+  - My 카테고리 Title
 tags:
   - content
   - css
