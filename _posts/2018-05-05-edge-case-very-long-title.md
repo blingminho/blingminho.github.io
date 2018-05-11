@@ -2,7 +2,7 @@
 layout: post
 title: "테스트 post"
 categories:
-  - My Study
+  - My Study
 tags:
   - content
   - css
@@ -12,4 +12,4 @@ tags:
   - title
 ---
 
-Check for long titles and how they might break layouts.
+My Study에 포함된 
