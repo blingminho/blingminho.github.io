@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            첫 블로그
+title:            Jun`s Blog
 tagline:          'A Jekyll theme'
-description:      '나의 블로그<a href="https://github.com/blingminho/blingminho.github.io" target="_blank">깃허브</a>'
+description:      '즐거운 탐구 생활'
 url:              https://github.com/blingminho/blingminho.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
