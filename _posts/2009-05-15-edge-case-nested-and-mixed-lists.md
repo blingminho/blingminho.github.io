@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Edge Case: Nested and Mixed Lists"
+title: "My 포스트"
 categories:
-  - My 카테고리 Title
+  - My Category
 tags:
   - content
   - css
