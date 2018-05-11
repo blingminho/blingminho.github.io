@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Jun`s Blog
-tagline:          'A Jekyll theme'
+tagline:          ''
 description:      '즐거운 탐구 생활'
 url:              https://github.com/blingminho/blingminho.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
