@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
+title:            첫 블로그
 tagline:          'A Jekyll theme'
 description:      '나의 블로그<a href="https://github.com/blingminho/blingminho.github.io" target="_blank">깃허브</a>'
 url:              https://github.com/blingminho/blingminho.github.io
@@ -15,9 +15,9 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
   name:           'SangJun Kim'
-  url:            https://github.com/blingminho/daejeon-jQuery
+  url:            https://github.com/blingminho/blingminho.github.io
 
-paginate:         5
+paginate:         10
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
