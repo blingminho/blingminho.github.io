@@ -2,7 +2,7 @@
 layout: post
 title: "테스트 post"
 categories:
-  - study
+  - My Study
 tags:
   - content
   - css
