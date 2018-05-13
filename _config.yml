@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Jun`s Blog
 tagline:          ''
 description:      '즐거운 탐구 생활'
-url:              https://github.com/blingminho/blingminho.github.io
+url:              https://github.com/sangjunkimDev/sangjunkimDev.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -15,7 +15,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
   name:           'SangJun Kim'
-  url:            https://github.com/blingminho/blingminho.github.io
+  url:            https://github.com/sangjunkimDev/sangjunkimDev.github.io
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -34,4 +34,4 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/blingminho
+  repo:             https://github.com/sangjunkimDev
