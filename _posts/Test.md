@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Test"
-category: Book
+categories:
+  - Book
 ---
 
 BookTest
