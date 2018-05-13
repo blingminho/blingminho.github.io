@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "test2"
-date: "2018-05-14"
+date: "2018-05-14 00:48"
 categories:
   - MyStudy
 tags:
